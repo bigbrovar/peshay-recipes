@@ -19,7 +19,7 @@
 -->
 
 		<key>os</key>
-		<string></string>
+		<string>installer</string>
     </dict>
     <key>MinimumVersion</key>
     <string>0.6.1</string>
